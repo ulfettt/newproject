@@ -7,4 +7,7 @@ p{
     height: 100px;
     text-align: center;
     justify-content: center;
+    background-color: aqua;
+    font-size: medium;
+    font-weight: 200;
 }
