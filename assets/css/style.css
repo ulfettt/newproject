@@ -1,6 +1,10 @@
 p{
     color: blueviolet;
     text-decoration: underline;
-    border: 1 px solid;
+    border: 1px solid;
     border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
 }
